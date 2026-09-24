@@ -1,14 +1,10 @@
-# MAC101-Quiz-2 FizzBuzz with User Input Quiz
-<p align="center">
-  <img src="./FizzBuzzInputQuizCoverArt.png?auto=format&fit=crop&w=1200&q=80" alt="Colorful dice tumbling" width="600">
-</p>
+# MAC101-HW-2 FizzBuzz with User Input Quiz
+
 ## Objective
 
 This quiz reinforces your understanding of:
 
 * Declaring and using **integer variables**
-* Using **loops** (`for` loop)
-* Using **selection statements** (`if`, `else if`, `else`)
 * Taking **user input** with `cin`
 
 ---
@@ -31,9 +27,7 @@ Write a C++ program that performs the classic **FizzBuzz** logic — but with a 
 ---
 
 ## Example Output
-
 ```
-Enter a number to loop through: 16
 1
 2
 Fizz
@@ -61,15 +55,8 @@ FizzBuzz
 using namespace std;
 
 int main() {
-    TODO: Create int var and cout and cin commands
+    TODO: Create int var and cout and cin commands    
 
-
-    // TODO: Write a for loop that runs from 1 to limit
-    
-
-        // TODO: Use if/else statements to apply FizzBuzz logic
-
-    
 
     return 0;
 }
