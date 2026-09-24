@@ -1,4 +1,4 @@
-# MAC101-HW-2 FizzBuzz with User Input Quiz
+# MAC101-HW-2 FizzBuzz with User Input HW 2
 
 ## Objective
 
